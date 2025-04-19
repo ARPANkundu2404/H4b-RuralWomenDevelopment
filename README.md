@@ -15,46 +15,40 @@ This platform is dedicated to fostering women's financial independence by provid
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Database:** PostgreSQL/MySQL, Firebase
-- **Authentication:** Firebase/Auth0
-- **Payment Gateway:** Razorpay/Stripe
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** PostgreSQL/MySQL, Firebase  
+- **Authentication:** Firebase/Auth0  
+- **Payment Gateway:** Razorpay/Stripe  
 
 ## 🧩 Platform Modules
 
 ### 1. 🛒 Business Showcase & Networking
-
 - **Business Profiles:** Customizable pages for women entrepreneurs.
 - **Marketplace Integration:** Direct sales of handmade goods.
 - **Buyer & Wholesaler Network:** Connecting businesses with large-scale buyers.
 
 ### 2. 🎓 Workshops & Mentorship
-
 - **Live & Recorded Sessions:** Covering financial literacy and skill-building.
 - **One-on-One Mentorship:** Personalized guidance from experts.
 - **Certificate Programs:** Validating skills acquired through workshops.
 
 ### 3. 💼 Job & Internship Portal
-
 - **Women-Friendly Job Listings:** Featuring flexible and inclusive workplaces.
 - **Internship Opportunities:** For skill development and experience.
 - **Resume Builder:** Assisting in creating professional resumes.
 
 ### 4. 💸 Funding & Financial Assistance
-
 - **Grant & Loan Guidance:** Steps to apply for government schemes and crowdfunding.
 - **Investor Connection:** Platform to pitch startups to potential investors.
 - **Business Plan Templates:** Helping users create structured funding proposals.
 
 ### 5. 🧮 Financial Calculator & Budgeting Tools
-
 - **Savings & Investment Planner**
 - **Loan & EMI Calculator**
 - **Expense Tracker:** Managing household and business finances.
 
 ### 6. 🔄 Career Restart Support
-
 - **Career Counseling:** Personalized guidance for re-entering the workforce.
 - **Upskilling Courses:** Training in digital literacy, business, and finance.
 
@@ -65,6 +59,12 @@ This platform is dedicated to fostering women's financial independence by provid
 3. **Explore Modules:** Access marketplace, workshops, job listings, or funding opportunities.
 4. **Engage & Grow:** Participate in workshops, apply for jobs, or connect with investors.
 5. **Monitor Progress:** Use financial tools and track your development journey.
+
+## 🌐 Deployment
+
+👉 **Live Website:** [ruraldev.onrender.com](https://ruraldev.onrender.com/)
+
+Feel free to explore the platform and experience how it supports women’s empowerment in action. 🚀🌍
 
 ## 🔮 Future Plans
 
